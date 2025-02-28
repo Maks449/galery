@@ -9,9 +9,8 @@ img {
 }
  body{
       margin: 0;
-    font-family: "Oswald",sans-serif;
-    font: 16px;
-background-image: linear-gradient(blue,green);
+  
+background-image:linear-gradient(blue,green);
  color:white;
   text-align: center;
 
