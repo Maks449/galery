@@ -5,13 +5,22 @@ img {
     justify-content: center;
     width: 300px;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
  body{
-background-image: linear-gradient (blue,green);
+      margin: 0;
+    font-family: "Oswald",sans-serif;
+    font: 16px;
+background-image: linear-gradient(blue,green);
+ color:white;
   text-align: center;
-    margin-bottom: 1%;
+
+}
+.player{
+    font-size: 35px;
+    color:red;
 }
 p{
-     text-align: center;
-  height: 70px;
+    width:300px;
+     color:pink;
 }
